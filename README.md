@@ -1,2 +1,2 @@
 # Project
-Fire fighthing robot using audrino
+Fire fighthing robot using arduino
